@@ -78,7 +78,13 @@ src/
 - Enable **multi-select** for moving multiple text elements simultaneously.
 - Improve **performance** for large amounts of text.
 
+https://github.com/user-attachments/assets/7b9abc6a-90c5-462d-969a-00f67bf20310
+
 ## License
+
+
+https://github.com/user-attachments/assets/6d97ea81-66d7-4bce-9cd8-79d54decf196
+
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
